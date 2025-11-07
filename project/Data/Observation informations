@@ -1,0 +1,245 @@
+ObsNo,Com
+B1,"UBVRc,i photometry, EE Cep eclipse 1997, Piwnice Obs., 0.6m Cassegrain tel."
+B1,Photometry in standard UBVR_C filters and a non-standard 'i'
+B1,(lambda_i_~7420{AA}) filter obtained at Piwnice Observatory (Poland) during
+B1,and near the 1997 eclipse (E=8). A one-channel photometer with an uncooled
+B1,EMI 9558B photomultiplier on the 0.6m Cassegrain telescope was used. The
+B1,"differential magnitudes are given with respect to standard star BD+55 2690,"
+B1,together with the corresponding standard deviations.
+B1,"Observers: D. Graczyk, J. Janowski, M. Mikolajewski."
+B2,"BV(RI)c photometry, EE Cep eclipse 2003, Athens Obs., 0.4m Cassegrain tel."
+B2,Photometry obtained at Athens Observatory (Greece) with standard BV(RI)_C
+B2,(Bessell) filters during and near the 2003 eclipse (E=9). The 0.4m
+B2,Cassegrain telescope with an SBIG ST8 CCD camera was used. Differential
+B2,magnitudes are given with respect to BD+55 2690. Each point is the mean
+B2,value obtained from several to tens of frames. The columns labelled 'HJD+'
+B2,denote the fraction of the day.
+B2,"Observers: K. Gazeas, P. Niarchos."
+B3,"BIc H-alpha photometry, EE Cep eclipse 2003, Bialkow Obs., 0.6m Cassegrain"
+B3,telescope.
+B3,Photometry in standard VI_C filters and wide H-alpha(wide) and narrow
+B3,"H-alpha(narrow) filters (FWHM~200 and ~30{AA}, respectively)"
+B3,obtained at Bialkow Observatory (Poland) during and near the 2003 eclipse
+B3,(E=9). The 0.6m Cassegrain telescope with a Photometrics Star I CCD
+B3,camera was used.
+B3,"Observers: Z. Kolaczkowski, G. Michalska, A. Pigulski"
+B4,"UBV(RI)c photometry, EE Cep eclipse 2003, Krakow Obs., 0.5m Cassegrain tel."
+B4,UBV(RI)_C photometry obtained at Krakow Observatory (Poland) during and
+B4,near the 2003 eclipse (E=9). The 0.5m Cassegrain telescope with a
+B4,Photometrics CH350 CCD camera was used.
+B4,Each point is the mean value obtained from several to tens of frames.
+B4,"Observers: M. Drahus, M. Kurpinska-Winiarska, A. Majewska, M. Siwak,"
+B4,"W. Waniak, M. Winiarski, S. Zola."
+B5,"UBV(RI)c photometry, EE Cep eclipse 2003, Kryoneri Obs., 1.2m Cassegrain"
+B5,telescope.
+B5,UBV(RI)_C} photometry obtained at Kryoneri Observatory (Greece) during the
+B5,2003 eclipse (E=9). The 1.2m Cassegrain telescope with a CCD camera was
+B5,used. Each point is the mean value obtained from several to tens of frames.
+B5,"Observers: I. Bellas-Velidis, A. Dapergolas."
+B6,"UBV(RI)c,c,H-beta photometry, EE Cep eclipse 2003, Piwnice Obs., 0.6m"
+B6,Cassegrain telescope.
+B6,Photometry in standard UBV(RI)_C and narrow (FWHM ~100{AA}) 'c'
+B6,(continuum at lambda=4804{AA}) and H-beta filters obtained at
+B6,Piwnice Observatory (Poland) during and near the 2003 eclipse (E=9). A
+B6,one-channel photometer with a cooled Burle C31034 photomultiplier on the
+B6,0.6m Cassegrain telescope was used. Differential magnitudes are given with
+B6,"respect to BD+55 2690, together with the corresponding standard deviations."
+B6,"Observers: C. Galan, A. Majcher, M. Mikolajewski."
+B7,"UBV(RI)c photometry, EE Cep eclipse 2003, Rozhen Obs., 2m Ritchey-Chretien"
+B7,telescope.
+B7,UBV(RI)_C photometry obtained at Rozhen Observatory (Bulgaria) during the
+B7,2003 eclipse (E=9). The 2m Ritchey-Chretien telescope with a CCD camera
+B7,was used.
+B7,"Observers: M. Gromadzki, D. Kolev."
+B8,"V photometry, EE Cep eclipse 2003, Rozhen Obs., 0.5/0.7m Schmidt telescope."
+B8,Photometry in the V filter obtained at Rozhen Observatory (Bulgaria) during
+B8,the 2003 eclipse (E=9). The 0.5/0.7m Schmidt telescope with a CCD
+B8,camera was used.
+B8,"Observers: G. Apostolovska, B. Bilkina, M. Gromadzki, D. Kolev."
+B9,"UBV photometry, EE Cep eclipse 2003, Rozhen Obs., 0.6m Cassegrain telescope."
+B9,UBV photometry obtained at Rozhen Observatory (Bulgaria) during the 2003
+B9,eclipse (E=9). The 0.6m Cassegrain telescope with a one-channel
+B9,photomultiplier was used.
+B9,Observer: D. Dimitrov.
+B10,"UBV(RI)c photometry, EE Cep eclipse 2003, Skinakas Obs., 1.3m"
+B10,Ritchey-Chretien telescope
+B10,"UBV(RI)_C photometry obtained at Skinakas Observatory (Crete, Greece)"
+B10,during the 2003 eclipse (E=9). The 1.3m Ritchey-Chretien telescope with
+B10,a CCD camera was used.
+B10,Observer: E. Semkov.
+B11,"BV(RI)c photometry, EE Cep eclipse 2003, Piszkesteto Obs., 0.6/0.9m Schmidt"
+B11,telescope.
+B11,BV(RI)_C photometry obtained at Piszkesteto Observatory (Hungary) during
+B11,the 2003 eclipse (E=9). The 0.6/0.9m Schmidt telescope with an AT200
+B11,CCD camera was used. The differential magnitudes are given with respect to
+B11,BD+55$ 2690.
+B11,"Observers: B. Csak, B. Gere, P. Nemeth."
+B11,HJD dBmag dVmag dRcmag dIcmag
+B12,"BV(RI)c photometry, EE Cep eclipse 2008/9, Altan Obs., 0.2m RL Vixen VMC200L"
+B12,telescope.
+B12,BV(RI)_C photometric data obtained at Altan Observatory (Czech Republic)
+B12,during the 2008/9 eclipse (E=10). The 0.2 meter RL Vixen VMC200L
+B12,telescope with a G2-0402 CCD camera was used. Differential magnitudes are
+B12,"given with respect to BD+55 2690 together, with the corresponding standard"
+B12,deviations.
+B12,Observer: L. Brat.
+B13,"BV(RI)c photometry, EE Cep eclipse 2008/9, Bialkow Obs., 0.6m Cassegrain"
+B13,telescope.
+B13,BV(RI)_C photometric data obtained at Bialkow Observatory (Poland) during
+B13,the 2008/9 eclipse (E=10). The 0.6m Cassegrain telescope with a CCD
+B13,camera was used.
+B13,"Observers: G. Kopacki, A. Majewska, A. Narwid, E. Niemczura, A. Pigulski,"
+B13,M. Steslicki
+B13,HJD HJD+ dBmag HJD+ dVmag HJD+ dRcmag HJD+ dIcmag
+B14,"BV(RI)c photometry, EE Cep eclipse 2008/9, Green Island Obs., 0.35m"
+B14,Ritchey-Chretien telescope.
+B14,BV(RI)_C photometric data obtained at Green Island Observatory (North
+B14,Cyprus) during the 2008/9 eclipse (E=10). The 0.35m telescope (Meade
+B14,"14""LX200R ) with a Meade DSI II Pro CCD camera was used. Differential"
+B14,magnitudes are given with respect to BD+55 2690 together with the
+B14,corresponding standard deviations.
+B14,Observer: Y. Ougmen.
+B15,"BV(RI)c photometry, EE Cep eclipse 2008/9, Furzehill House Obs., 0.35m"
+B15,Schmidt-Cassegrain telescope.
+B15,"BV(RI)_C photometric data obtained at Furzehill House Observatory (Ilston,"
+B15,"Swansea, United Kingdom) during the 2008/9 eclipse (E 10). The 0.35m"
+B15,Schmidt-Cassegrain telescope with an SXVF-H16 CCD camera was used.
+B15,"Differential magnitudes are given with respect to BD+55 2690, together with"
+B15,the corresponding standard deviations.
+B15,Observer: I. Miller.
+B16,"V photometry, EE Cep eclipse 2008/9, Navas de Oro, Obs., Reflector 0.35m"
+B16,telescope.
+B16,"Photometry in the V filter obtained at Observatorio Astronomico ""Las"
+B16,"Pegueras"" (Navas de Oro, Segovia, Spain) during the 2008/9 eclipse (E=10)."
+B16,The 0.35m Reflector with a CCD camera was used. Differential
+B16,magnitudes are given with respect to GSC 3973-2150 comparison star.
+B16,Observer: T. Arranz Heras.
+B17,"BV(RI)c photometry, EE Cep eclipse 2008/9, Ostrava Obs., 0.3m"
+B17,Schmidt-Cassegrain telescope.
+B17,Photometry obtained at Ostrava Observatory (Czech Republic) with standard
+B17,BV(RI)_C filters during the 2008/9 eclipse (E=10). The 0.3m
+B17,Schmidt-Cassegrain telescope with a CCD camera has been used.
+B17,Observer: R. Kocian.
+B18,"BV(RI)c photometry, EE Cep eclipse 2008/9, Rozhen Obs., 2m Ritchey-Chretien"
+B18,telescope.
+B18,BV(RI)_C photometry obtained at Rozhen Observatory (Bulgaria) during the
+B18,2008/9 eclipse (E=10). The 2m Ritchey-Chretien telescope with a CCD
+B18,camera was used.
+B18,"Observers: S. Peneva, E. Semkov."
+B19,"UBV(RI)c photometry, EE Cep eclipse 2008/9, Rozhen Obs., 0.5/0.7m Schmidt"
+B19,telescope.
+B19,UBV(RI)_C photometry obtained at Rozhen Observatory (Bulgaria) during and
+B19,near the 2008/9 eclipse (E=10). The 0.5/0.7m Schmidt telescope with a
+B19,CCD camera was used.
+B19,"Observers: S. Peneva, E. Semkov."
+B20,"UBV(RI)c photometry, EE Cep eclipse 2008/9, Rozhen Obs., 0.6m Cassegrain"
+B20,telescope.
+B20,Photometry obtained at Rozhen Observatory (Bulgaria) during the 2008/9
+B20,eclipse (E=10) with standard UBV(RI)_C (Bessell) filters. The 0.6m
+B20,Cassegrain telescope with a FLI PL09000 CCD camera was used.
+B20,Each point is the mean B20 value obtained from several frames.
+B20,"Observers: D. Dimitrov, V. Popov."
+B21,"BV(RI)c photometry, EE Cep eclipse 2008/9, Kryoneri Obs., 1.2m Cassegrain"
+B21,telescope.
+B21,BV(RI)_C photometry obtained at Kryoneri Observatory (Greece) at the
+B21,beginning of the 2008/9 eclipse (E=10). The 1.2m Cassegrain telescope
+B21,with a CCD camera was used.
+B21,"Observers: I. Bellas-Velidis, A. Dapergolas."
+B22,"BV(RI)c photometry, EE Cep eclipse 2008/9, Sonoita Res. Obs., 0.5m"
+B22,Cassegrain telescope.
+B22,"BV(RI)_C photometry obtained at Sonoita Research Observatory (Arizona, USA)"
+B22,during and near the 2008/9 eclipse (E=10). The 0.5m Cassegrain
+B22,telescope with an SBIG STL 6303 CCD camera was used. Comparisons were made
+B22,against two stars designated with the AAVSO Unique Identifiers as:
+B22,"000-BCQ-040, 000-BJJ-300. The former is a 'd' object from Meinunger's"
+B22,comparison star sequence (Meinunger 1975). The apparent magnitudes are
+B22,also given with respect to BD+55 2690 (calculated with the adoption of
+B22,"BV(RI)_C magnitudes of BD+55 2690 given in Mikolajewski et al,"
+B22,2003IBVS.5412....1M.
+B22,Observer: B. Staels.
+B23,"BV(RI)c photometry, EE Cep eclipse 2008/9, Sonoita Res. Obs., 0.5m"
+B23,Cassegrain telescope.
+B23,"BV(RI)_C photometry obtained at Sonoita Research Observatory (Arizona, USA)"
+B23,during and near the 2008/9 eclipse (E=10). The 0.5m Cassegrain
+B23,telescope with an SBIG STL 6303 CCD camera was used. The apparent
+B23,magnitudes are also given with respect to BD+55 2690 (calculated by
+B23,adopting BV(RI)_C magnitudes of BD+55 2690 from Mikolajewski et al.
+B23,2003IBVS.5412....1M.
+B23,"Observers: L. Elder, J. Hopkins, J. Pye."
+B24,"BV(RI)c photometry, EE Cep eclipse 2008/9, Athens Obs., 0.4m Cassegrain"
+B24,telescope.
+B24,Photometry obtained at Athens Observatory (Greece) with standard BV(RI)_C
+B24,(Bessell) filters during and near the 2008/9 eclipse (E=10). The 0.4m
+B24,Cassegrain telescope with an SBIG ST-8XMEI CCD camera was used.
+B24,Differential magnitudes are given with respect to three comparison stars:
+B24,"a=BD+55 2690, b=GSC 3973-2150, and c=BD+55 2691. Each point is the"
+B24,mean value obtained from several frames.
+B24,"Observers: K. Gazeas, A. Liakos, P. Niarchos."
+B25,Photometry obtained at Hankasalmi Observatory (Finland) with standard
+B25,"BV(RI)c photometry, EE Cep eclipse 2008/9, Hankasalmi Obs., 0.4m RCOS tel."
+B25,BV(RI)_C (Bessell) filters during the 2008/9 eclipse (E=10). The 0.4m
+B25,RCOS telescope with an SBIG STL-1001 CCD camera was used. Differential
+B25,magnitudes are given with respect to three comparison stars:
+B25,"a=BD+55 B25 2690, b=GSC 3973-2150, and c=BD+55 2691. Each point is the"
+B25,mean value obtained from several frames.
+B25,Observer: A. Oksanen.
+B26,"BV(RI)c photometry, EE Cep eclipse 2008/9, Ostrava Obs., 0.2m Newton tel."
+B26,Photometry obtained at Ostrava Observatory (Czech Republic) with standard
+B26,BV(RI)_C filters during the 2008/9 eclipse (E=10). The 0.2m Newton
+B26,telescope with an SBIG ST8-XME CCD camera has been used. Differential
+B26,magnitudes are given with respect to three comparison stars:
+B26,"a=BD+55 2690, b=GSC 3973-2150, and c=BD+55 2691. Each point is the mean"
+B26,value B26 obtained from several frames.
+B26,Observer: H. Kucakova.
+B27,"UBV(RI)c photometry, EE Cep eclipse 2008/9, Krakow Obs., 0.5m Cassegrain"
+B27,telescope.
+B27,UBV(RI)_C photometry obtained at Krakow Observatory (Poland) during and
+B27,near the 2008/9 eclipse (E=10). The 0.5m Cassegrain telescope with a
+B27,CCD camera was used. The differential magnitudes are given with respect to
+B27,"three comparison stars: a=BD+55 2690, b=GSC 3973-2150, and c=BD+55 2691."
+B27,Each point is the mean value obtained from several to tens of frames.
+B27,"Observers: E. Kuligowska, T. Kundera, M. Kurpinska-Winiarska, A. Kuzmicz,"
+B27,"T. Szymanski, M. Winiarski, S. Zola."
+B28,"UBV(RI)c photometry, EE Cep eclipse 2008/9, Tenagra-II Obs., 0.81m"
+B28,Ritchey-Chretien telescope.
+B28,CCD photometry obtained in UBV(RI)_C (Bessel) filters with 0.81m
+B28,Tenagra-II telescope in Southern Arizona (USA) during and near the 2008/9
+B28,eclipse (E=10). Differential magnitudes are given with respect to three
+B28,"comparison stars: a=BD+55 2690, b=GSC 3973-2150, and c=BD+55 2691."
+B28,Each point is the mean value obtained from several frames.
+B28,Observer: T. Lister.
+B29,"UBV(RI)c photometry, EE Cep eclipse 2008/9, Piwnice Obs., 0.6m Cassegrain"
+B29,telescope.
+B29,UBV(RI)_C photometry obtained at Piwnice Observatory (Poland) during and
+B29,near the 2008/9 eclipse (E=10). The 0.6m Cassegrain telescope with SBIG
+B29,STL-1001 CCD camera was used. Differential magnitudes are given with
+B29,"respect to three comparison stars: a=BD+55 2690, b=GSC 3973-2150, and"
+B29,c=BD+55 2691. Each point is the mean value obtained from several to tens
+B29,of frames.
+B29,"Observers: P. Dobierski, S. Frackowiak, C. Galan, G. Maciejewski,"
+B29,"P. Rozanski, E. Swierczynski, M. Wiecek, P. Wychudzki."
+B30,"UBV(RI)c photometry, EE Cep eclipse 2008/9, Suhora Obs., 0.6m Cassegrain"
+B30,telescope.
+B30,UBV(RI)_C photometry obtained at Suhora Observatory (Poland) during and
+B30,near the 2008/9 eclipse (E=10). The 0.6m Cassegrain telescope with a
+B30,CCD camera was used. The differential magnitudes are given with respect to
+B30,"three comparison stars: a=BD+55 2690, b=GSC 3973-2150, and c=BD+55 2691."
+B30,Each point is the mean value obtained from several to tens of frames.
+B30,"Observers: M. Drozdz, J. Krzesinski, W. Ogloza, M. Siwak, M. Winiarski,"
+B30,S. Zola.
+B31,"BVIc photometry, EE Cep eclipse 2008/9, GRAS, Mayhill Obs., 0.3m GRAS-001"
+B31,telescope.
+B31,"BVI_C photometry obtained at GRAS Observatory (Mayhill, New Mexico, USA)"
+B31,during the 2008/9 eclipse (E=10). The 0.3m GRAS-001 Telescope with an
+B31,FLI IMG 1024 DM CCD camera was used. Differential magnitudes are given
+B31,"with respect to three comparison stars: a=BD+55 2690, b=GSC 3973-2150,"
+B31,and c=BD+55 2691.
+B31,Observer: G. Myers.
+B32,"BV photometry, EE Cep eclipse 2008/9, Rolling Hills Obs., 0.25m (10"")"
+B32,LX200 telescope.
+B32,"BV photometry obtained at Rolling Hills Observatory (Florida, USA) during"
+B32,"the 2008/9 eclipse (E=10). The 0.25m (10"") LX 200 telescope with an"
+B32,SBIG ST-9XE CCD camera was used. Differential magnitudes are given with
+B32,"respect to three comparison stars: a=BD+55 2690, b=GSC 3973-2150, and"
+B32,c=BD+55 2691.
+B32,Observer: S. Dvorak.
